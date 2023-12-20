@@ -1,6 +1,6 @@
-# Climate Canvas: A Weather Visualization Tool
+# Weather Canvas: A Weather Visualization Tool
 
-Climate Canvas is a Streamlit web application that allows you to visualize weather data for up to 10 cities using the OpenWeather API. 
+Weather Canvas is a Streamlit web application that allows you to visualize weather data for up to 10 cities using the OpenWeather API. 
 
 ## Features
 
@@ -10,8 +10,6 @@ Climate Canvas is a Streamlit web application that allows you to visualize weath
 - The app prevents you from entering more than 10 cities and notifies you when you try to fetch weather data for a city that's already in the table.
 - You can reset the table and the plot at any time using the "Reset" button.
 
-## Screenshot:
-![image](https://github.com/codingis4noobs2/Climate-Canvas/assets/87560178/eaef024e-bdaf-4eef-9bbc-4419999e3434)
 
 ## Getting Started
 
@@ -19,7 +17,7 @@ To get started with this project, clone this repository and install the requirem
 
 1. Clone the repository:
 ```
-git clone https://github.com/codingis4noobs2/Climate-Canvas.git
+git clone https://github.com/TediousDev/Weather-Canvas.git
 ```
 
 2. Change to the project directory:
